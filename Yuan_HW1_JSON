@@ -1,0 +1,27 @@
+[{
+      "gene_name": "Drosophila melanogaster strain S-549S tinman (tin) gene, partial cds",
+      "length_in_bp": 2318,
+      "accession_number": "AY368107"
+    },
+    {
+      "gene_name": "Drosophila melanogaster dreadlocks (dock), transcript variant D, mRNA",
+      "length_in_bp": 2825,
+      "accession_number": "NM_001272916"
+    },
+    {
+      "gene_name": "Drosophila melanogaster bag of marbles (bam), mRNA",
+      "length_in_bp": 1946,
+      "accession_number": "NM_057452"
+    },
+    {
+      "gene_name": "Homo sapiens zinc finger and BTB domain containing 7A (ZBTB7A), transcript variant 2, mRNA",
+      "length_in_bp": 6319,
+      "accession_number": "NM_001317990"
+    },
+    {
+      "gene_name": "Rattus norvegicus tafazzin, phospholipid-lysophospholipid transacylase (Tafazzin), mRNA",
+      "length_in_bp": 1813,
+      "accession_number": "NM_001025748"
+    }
+  ]
+

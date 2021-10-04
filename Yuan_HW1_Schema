@@ -1,0 +1,32 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"$id":"https://raw.githubusercontent.com/quanyuan42/2021Fall-BIOC-6223/main/Yuan_HW1_JSON",
+  	"type": "array",
+  	"title": "Five genes from NCBI nucleotide database",
+  	"description": "Pick five genes from the database. Identify the gene name, length in bp, and accession number",
+    "required": [
+		"gene_name",
+        "length_in_bp",
+        "accession_number"
+	],
+    "properties":{
+		"gene_name":{
+			"type": "string",
+            "examples": [
+                  "Drosophila melanogaster strain S-549S tinman (tin) gene, partial cds"
+            ],
+        },
+		"length_in_bp":{
+			"type": "number",
+            "examples": [
+                2825
+			],
+        },
+		"accession_number":{
+			"type": "string",
+            "examples": [
+                "NM_057452"
+              ],
+        }
+    }
+}
